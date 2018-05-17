@@ -1,0 +1,12 @@
+bin/dep/main.o.d
+bin/dep/protocol.o.d
+bin/dep/writeASM.o.d
+bin/dep/writeC.o.d
+bin/main.o
+bin/protocol.o
+bin/writeASM.o
+bin/writeC.o
+bin/TinyBootloader.eep
+bin/TinyBootloader.elf
+bin/TinyBootloader.lss
+bin/TinyBootloader.map
